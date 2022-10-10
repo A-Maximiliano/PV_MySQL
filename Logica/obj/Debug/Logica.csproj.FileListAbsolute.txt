@@ -1,0 +1,12 @@
+D:\Max\UISIL\2022\I CUATRIMESTRE\Programacion IV\Proyecto Final\Punto_Venta_Max_Nav\Logica\bin\Debug\Logica.dll
+D:\Max\UISIL\2022\I CUATRIMESTRE\Programacion IV\Proyecto Final\Punto_Venta_Max_Nav\Logica\bin\Debug\Logica.pdb
+D:\Max\UISIL\2022\I CUATRIMESTRE\Programacion IV\Proyecto Final\Punto_Venta_Max_Nav\Logica\obj\Debug\Logica.csproj.AssemblyReference.cache
+D:\Max\UISIL\2022\I CUATRIMESTRE\Programacion IV\Proyecto Final\Punto_Venta_Max_Nav\Logica\obj\Debug\Logica.csproj.CoreCompileInputs.cache
+D:\Max\UISIL\2022\I CUATRIMESTRE\Programacion IV\Proyecto Final\Punto_Venta_Max_Nav\Logica\obj\Debug\Logica.dll
+D:\Max\UISIL\2022\I CUATRIMESTRE\Programacion IV\Proyecto Final\Punto_Venta_Max_Nav\Logica\obj\Debug\Logica.pdb
+D:\Max\UISIL\2022\I CUATRIMESTRE\Programacion IV\Proyecto Final Max Navarro\Punto_Venta_Max_Nav\Logica\bin\Debug\Logica.dll
+D:\Max\UISIL\2022\I CUATRIMESTRE\Programacion IV\Proyecto Final Max Navarro\Punto_Venta_Max_Nav\Logica\bin\Debug\Logica.pdb
+D:\Max\UISIL\2022\I CUATRIMESTRE\Programacion IV\Proyecto Final Max Navarro\Punto_Venta_Max_Nav\Logica\obj\Debug\Logica.csproj.AssemblyReference.cache
+D:\Max\UISIL\2022\I CUATRIMESTRE\Programacion IV\Proyecto Final Max Navarro\Punto_Venta_Max_Nav\Logica\obj\Debug\Logica.csproj.CoreCompileInputs.cache
+D:\Max\UISIL\2022\I CUATRIMESTRE\Programacion IV\Proyecto Final Max Navarro\Punto_Venta_Max_Nav\Logica\obj\Debug\Logica.dll
+D:\Max\UISIL\2022\I CUATRIMESTRE\Programacion IV\Proyecto Final Max Navarro\Punto_Venta_Max_Nav\Logica\obj\Debug\Logica.pdb
