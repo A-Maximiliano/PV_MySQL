@@ -1,0 +1,41 @@
+D:\Max\UISIL\2022\I CUATRIMESTRE\Programacion IV\Proyecto Final\Punto_Venta_Max_Nav\Interfaz\bin\Debug\Interfaz.exe.config
+D:\Max\UISIL\2022\I CUATRIMESTRE\Programacion IV\Proyecto Final\Punto_Venta_Max_Nav\Interfaz\bin\Debug\Interfaz.exe
+D:\Max\UISIL\2022\I CUATRIMESTRE\Programacion IV\Proyecto Final\Punto_Venta_Max_Nav\Interfaz\bin\Debug\Interfaz.pdb
+D:\Max\UISIL\2022\I CUATRIMESTRE\Programacion IV\Proyecto Final\Punto_Venta_Max_Nav\Interfaz\obj\Debug\Interfaz.csproj.AssemblyReference.cache
+D:\Max\UISIL\2022\I CUATRIMESTRE\Programacion IV\Proyecto Final\Punto_Venta_Max_Nav\Interfaz\obj\Debug\Interfaz.Login.resources
+D:\Max\UISIL\2022\I CUATRIMESTRE\Programacion IV\Proyecto Final\Punto_Venta_Max_Nav\Interfaz\obj\Debug\Interfaz.Properties.Resources.resources
+D:\Max\UISIL\2022\I CUATRIMESTRE\Programacion IV\Proyecto Final\Punto_Venta_Max_Nav\Interfaz\obj\Debug\Interfaz.csproj.GenerateResource.cache
+D:\Max\UISIL\2022\I CUATRIMESTRE\Programacion IV\Proyecto Final\Punto_Venta_Max_Nav\Interfaz\obj\Debug\Interfaz.csproj.CoreCompileInputs.cache
+D:\Max\UISIL\2022\I CUATRIMESTRE\Programacion IV\Proyecto Final\Punto_Venta_Max_Nav\Interfaz\obj\Debug\Interfaz.exe
+D:\Max\UISIL\2022\I CUATRIMESTRE\Programacion IV\Proyecto Final\Punto_Venta_Max_Nav\Interfaz\obj\Debug\Interfaz.pdb
+D:\Max\UISIL\2022\I CUATRIMESTRE\Programacion IV\Proyecto Final\Punto_Venta_Max_Nav\Interfaz\bin\Debug\Datos.dll
+D:\Max\UISIL\2022\I CUATRIMESTRE\Programacion IV\Proyecto Final\Punto_Venta_Max_Nav\Interfaz\bin\Debug\Logica.dll
+D:\Max\UISIL\2022\I CUATRIMESTRE\Programacion IV\Proyecto Final\Punto_Venta_Max_Nav\Interfaz\bin\Debug\MySql.Data.dll
+D:\Max\UISIL\2022\I CUATRIMESTRE\Programacion IV\Proyecto Final\Punto_Venta_Max_Nav\Interfaz\bin\Debug\Datos.pdb
+D:\Max\UISIL\2022\I CUATRIMESTRE\Programacion IV\Proyecto Final\Punto_Venta_Max_Nav\Interfaz\bin\Debug\Datos.dll.config
+D:\Max\UISIL\2022\I CUATRIMESTRE\Programacion IV\Proyecto Final\Punto_Venta_Max_Nav\Interfaz\bin\Debug\Logica.pdb
+D:\Max\UISIL\2022\I CUATRIMESTRE\Programacion IV\Proyecto Final\Punto_Venta_Max_Nav\Interfaz\obj\Debug\Interfaz.csproj.CopyComplete
+D:\Max\UISIL\2022\I CUATRIMESTRE\Programacion IV\Proyecto Final\Punto_Venta_Max_Nav\Interfaz\obj\Debug\Interfaz.RegistroVendedores.resources
+D:\Max\UISIL\2022\I CUATRIMESTRE\Programacion IV\Proyecto Final\Punto_Venta_Max_Nav\Interfaz\obj\Debug\Interfaz.RecuperarPass.resources
+D:\Max\UISIL\2022\I CUATRIMESTRE\Programacion IV\Proyecto Final Max Navarro\Punto_Venta_Max_Nav\Interfaz\bin\Debug\Interfaz.exe.config
+D:\Max\UISIL\2022\I CUATRIMESTRE\Programacion IV\Proyecto Final Max Navarro\Punto_Venta_Max_Nav\Interfaz\bin\Debug\Interfaz.exe
+D:\Max\UISIL\2022\I CUATRIMESTRE\Programacion IV\Proyecto Final Max Navarro\Punto_Venta_Max_Nav\Interfaz\bin\Debug\Interfaz.pdb
+D:\Max\UISIL\2022\I CUATRIMESTRE\Programacion IV\Proyecto Final Max Navarro\Punto_Venta_Max_Nav\Interfaz\bin\Debug\Datos.dll
+D:\Max\UISIL\2022\I CUATRIMESTRE\Programacion IV\Proyecto Final Max Navarro\Punto_Venta_Max_Nav\Interfaz\bin\Debug\Logica.dll
+D:\Max\UISIL\2022\I CUATRIMESTRE\Programacion IV\Proyecto Final Max Navarro\Punto_Venta_Max_Nav\Interfaz\bin\Debug\MySql.Data.dll
+D:\Max\UISIL\2022\I CUATRIMESTRE\Programacion IV\Proyecto Final Max Navarro\Punto_Venta_Max_Nav\Interfaz\bin\Debug\Datos.pdb
+D:\Max\UISIL\2022\I CUATRIMESTRE\Programacion IV\Proyecto Final Max Navarro\Punto_Venta_Max_Nav\Interfaz\bin\Debug\Datos.dll.config
+D:\Max\UISIL\2022\I CUATRIMESTRE\Programacion IV\Proyecto Final Max Navarro\Punto_Venta_Max_Nav\Interfaz\bin\Debug\Logica.pdb
+D:\Max\UISIL\2022\I CUATRIMESTRE\Programacion IV\Proyecto Final Max Navarro\Punto_Venta_Max_Nav\Interfaz\obj\Debug\Interfaz.csproj.AssemblyReference.cache
+D:\Max\UISIL\2022\I CUATRIMESTRE\Programacion IV\Proyecto Final Max Navarro\Punto_Venta_Max_Nav\Interfaz\obj\Debug\Interfaz.Facturacion.resources
+D:\Max\UISIL\2022\I CUATRIMESTRE\Programacion IV\Proyecto Final Max Navarro\Punto_Venta_Max_Nav\Interfaz\obj\Debug\Interfaz.Login.resources
+D:\Max\UISIL\2022\I CUATRIMESTRE\Programacion IV\Proyecto Final Max Navarro\Punto_Venta_Max_Nav\Interfaz\obj\Debug\Interfaz.MantenimientoClientes.resources
+D:\Max\UISIL\2022\I CUATRIMESTRE\Programacion IV\Proyecto Final Max Navarro\Punto_Venta_Max_Nav\Interfaz\obj\Debug\Interfaz.MantenimientoProductos.resources
+D:\Max\UISIL\2022\I CUATRIMESTRE\Programacion IV\Proyecto Final Max Navarro\Punto_Venta_Max_Nav\Interfaz\obj\Debug\Interfaz.Properties.Resources.resources
+D:\Max\UISIL\2022\I CUATRIMESTRE\Programacion IV\Proyecto Final Max Navarro\Punto_Venta_Max_Nav\Interfaz\obj\Debug\Interfaz.RegistroVendedores.resources
+D:\Max\UISIL\2022\I CUATRIMESTRE\Programacion IV\Proyecto Final Max Navarro\Punto_Venta_Max_Nav\Interfaz\obj\Debug\Interfaz.RecuperarPass.resources
+D:\Max\UISIL\2022\I CUATRIMESTRE\Programacion IV\Proyecto Final Max Navarro\Punto_Venta_Max_Nav\Interfaz\obj\Debug\Interfaz.csproj.GenerateResource.cache
+D:\Max\UISIL\2022\I CUATRIMESTRE\Programacion IV\Proyecto Final Max Navarro\Punto_Venta_Max_Nav\Interfaz\obj\Debug\Interfaz.csproj.CoreCompileInputs.cache
+D:\Max\UISIL\2022\I CUATRIMESTRE\Programacion IV\Proyecto Final Max Navarro\Punto_Venta_Max_Nav\Interfaz\obj\Debug\Interfaz.csproj.CopyComplete
+D:\Max\UISIL\2022\I CUATRIMESTRE\Programacion IV\Proyecto Final Max Navarro\Punto_Venta_Max_Nav\Interfaz\obj\Debug\Interfaz.exe
+D:\Max\UISIL\2022\I CUATRIMESTRE\Programacion IV\Proyecto Final Max Navarro\Punto_Venta_Max_Nav\Interfaz\obj\Debug\Interfaz.pdb
