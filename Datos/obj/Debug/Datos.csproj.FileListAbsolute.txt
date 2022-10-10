@@ -1,0 +1,18 @@
+D:\Max\UISIL\2022\I CUATRIMESTRE\Programacion IV\Proyecto Final\Punto_Venta_Max_Nav\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+D:\Max\UISIL\2022\I CUATRIMESTRE\Programacion IV\Proyecto Final\Punto_Venta_Max_Nav\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+D:\Max\UISIL\2022\I CUATRIMESTRE\Programacion IV\Proyecto Final\Punto_Venta_Max_Nav\Datos\bin\Debug\Datos.dll.config
+D:\Max\UISIL\2022\I CUATRIMESTRE\Programacion IV\Proyecto Final\Punto_Venta_Max_Nav\Datos\bin\Debug\Datos.dll
+D:\Max\UISIL\2022\I CUATRIMESTRE\Programacion IV\Proyecto Final\Punto_Venta_Max_Nav\Datos\bin\Debug\Datos.pdb
+D:\Max\UISIL\2022\I CUATRIMESTRE\Programacion IV\Proyecto Final\Punto_Venta_Max_Nav\Datos\bin\Debug\MySql.Data.dll
+D:\Max\UISIL\2022\I CUATRIMESTRE\Programacion IV\Proyecto Final\Punto_Venta_Max_Nav\Datos\obj\Debug\Datos.csproj.CopyComplete
+D:\Max\UISIL\2022\I CUATRIMESTRE\Programacion IV\Proyecto Final\Punto_Venta_Max_Nav\Datos\obj\Debug\Datos.dll
+D:\Max\UISIL\2022\I CUATRIMESTRE\Programacion IV\Proyecto Final\Punto_Venta_Max_Nav\Datos\obj\Debug\Datos.pdb
+D:\Max\UISIL\2022\I CUATRIMESTRE\Programacion IV\Proyecto Final Max Navarro\Punto_Venta_Max_Nav\Datos\bin\Debug\Datos.dll.config
+D:\Max\UISIL\2022\I CUATRIMESTRE\Programacion IV\Proyecto Final Max Navarro\Punto_Venta_Max_Nav\Datos\bin\Debug\Datos.dll
+D:\Max\UISIL\2022\I CUATRIMESTRE\Programacion IV\Proyecto Final Max Navarro\Punto_Venta_Max_Nav\Datos\bin\Debug\Datos.pdb
+D:\Max\UISIL\2022\I CUATRIMESTRE\Programacion IV\Proyecto Final Max Navarro\Punto_Venta_Max_Nav\Datos\bin\Debug\MySql.Data.dll
+D:\Max\UISIL\2022\I CUATRIMESTRE\Programacion IV\Proyecto Final Max Navarro\Punto_Venta_Max_Nav\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+D:\Max\UISIL\2022\I CUATRIMESTRE\Programacion IV\Proyecto Final Max Navarro\Punto_Venta_Max_Nav\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+D:\Max\UISIL\2022\I CUATRIMESTRE\Programacion IV\Proyecto Final Max Navarro\Punto_Venta_Max_Nav\Datos\obj\Debug\Datos.csproj.CopyComplete
+D:\Max\UISIL\2022\I CUATRIMESTRE\Programacion IV\Proyecto Final Max Navarro\Punto_Venta_Max_Nav\Datos\obj\Debug\Datos.dll
+D:\Max\UISIL\2022\I CUATRIMESTRE\Programacion IV\Proyecto Final Max Navarro\Punto_Venta_Max_Nav\Datos\obj\Debug\Datos.pdb
