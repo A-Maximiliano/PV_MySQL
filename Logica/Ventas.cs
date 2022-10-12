@@ -59,7 +59,7 @@ namespace Logica
             return subtotal;
         }
 
-        static decimal calcular;
+        static decimal calcular; // variable globa
         public void TotalSubVenta(decimal desc)
         {
             calcular = desc;
